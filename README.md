@@ -46,7 +46,7 @@ Fork and clone the repo for this lesson if you'd like to follow along.
 
 After forking the repo, run the `npm install` command to install all the
 dependencies and the `npm start` command to run the app. You should see a blank page
-on the browser.
+in the browser.
 
 ### Step 1: Write the Components
 
